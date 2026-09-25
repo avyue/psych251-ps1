@@ -15,3 +15,11 @@ Quarto enables you to weave together content and executable code into a finished
 ```{r}
 print('hello!!')
 ```
+
+install.packages('ggplot2')
+
+```{r}
+library(ggplot2)
+ggplot(cars, aes(speed)) +
+  geom_histogram()
+```
