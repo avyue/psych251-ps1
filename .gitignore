@@ -1,3 +1,4 @@
 *.html
-!docs/.html
+!docs/
+!docs/**
 .secrets
