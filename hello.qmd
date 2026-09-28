@@ -1,5 +1,5 @@
 ---
-title: "trying again to cause merge conflict"
+title: "resolved conflict!"
 format: html
 editor: visual
 ---
