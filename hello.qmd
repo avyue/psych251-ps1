@@ -1,5 +1,5 @@
 ---
-title: "hello, conflicts pt2 different title!"
+title: "resolved conflict!"
 format: html
 editor: visual
 ---
